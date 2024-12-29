@@ -9,10 +9,6 @@ This repository contains a fun project where we design a penguin using HTML and 
 - Animated waving arm
 - Responsive and visually attractive design
 
----
-
-## Live Demo
-You can view the live demo of the project [here](https://harshsingh1112.github.io/penguin-design/).
 
 ---
 
